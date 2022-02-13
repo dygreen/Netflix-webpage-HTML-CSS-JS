@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@1,500&family=Roboto:wght@100&family=Source+Sans+Pro:wght@200&family=Source+Serif+4:wght@200;300&display=swap" rel="stylesheet">
+    <title>Netflix Webpage</title>
+    <script 
+        src="https://kit.fontawesome.com/de745c8c9f.js"
+        crossorigin="anonymous"
+        ></script>
+    <script src="https://code.iconify.design/2/2.1.2/iconify.min.js"></script>
+    <script defer src="main.js"></script>
+</head>
+<body>
+    <!-- Header -->
+<div class="navbarAndInfo">
+    <header>
+        <nav class="navbar">
+            <div class="navbar__logo"><span class="iconify" data-icon="logos:netflix"></span></div>
+            <ul class="navbar__menu">
+                <li><a href="#">홈</a></li>
+                <li><a href="#">시리즈</a></li>
+                <li><a href="#">영화</a></li>
+                <li><a href="#">NEW!요즘 대세 콘텐츠</a></li>
+                <li><a href="#">내가 찜한 콘텐츠</a></li>
+            </ul>
+            <ul class="navbar__icons">
+                <li><button><i class="fas fa-search"></i></button></li>
+                <li><button><span class="kids">키즈</span></button></li>
+                <li><button><i class="fas fa-bell"></i></button></li>
+                <li><button><i class="fas fa-users"></i></button></li>
+                <li><button><i class="fas fa-caret-down"></i></button></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Info and Contents -->
+    <main class="infoAndContents">
+    <!-- Info -->   
+    <section class="info">
+        <div class="info__title">F∙R∙I∙E∙N∙D∙S</div>
+        <div class="info__description">
+            90년대 뉴욕의 청춘, 어쩌면 오늘을 살아가는 우리 모두의 이야기!<br>
+            깨알 웃음과 찡한 감동이 함께하는 여섯 친구의 좌충우돌 성장기가<br>
+            맨해튼 한복판에서 지금 펼쳐진다.
+        </div>
+        <div class="info__playAndInfo">
+            <div class="info__play"><button><i class="fas fa-play"></i><p class="play__string">재생</p></button></div>
+            <div class="info__info"><button><span class="iconify" data-icon="ant-design:info-circle-outlined"></span><p class="info__string">상세 정보</p></button></div>
+        </div>
+    </section>
+</div>    
+    <!-- Contents-->
+    <section class="contents">
+        <div class="item1">
+            <span class="item1__category">넷플릭스 인기 콘텐츠</span>
+            <ul class="item1__contents">
+                <li><a href="#"><img src="image/스크린샷 2022-02-05 오후 5.40.10.png" alt=""></a></li>
+                <li><a href="#"><img src="image/스크린샷 2022-02-05 오후 5.40.30.png" alt=""></a></li>
+                <li><a href="#"><img src="image/스크린샷 2022-02-05 오후 5.40.58.png" alt=""></a></li>
+                <li><a href="#"><img src="image/스크린샷 2022-02-05 오후 5.41.49.png" alt=""></a></li>
+                <li><a href="#"><img src="image/스크린샷 2022-02-05 오후 5.42.17.png" alt=""></a></li>
+                <li><a href="#"><img src="image/스크린샷 2022-02-11 오후 9.44.34.png" alt=""></a></li>
+            </ul>
+        </div>
+        <div class="item2">
+            <span class="item2__category">도연 님이 시청 중인 콘텐츠</span>
+            <ul class="item2__contents">
+                <li><a href="#"><img src="image/스크린샷 2022-02-05 오후 5.42.29.png" alt=""></a></li>
+                <li><a href="#"><img src="image/스크린샷 2022-02-05 오후 5.42.37.png" alt=""></a></li>
+                <li><a href="#"><img src="image/스크린샷 2022-02-05 오후 5.42.45.png" alt=""></a></li>
+                <li><a href="#"><img src="image/스크린샷 2022-02-05 오후 5.43.10.png" alt=""></a></li>
+                <li><a href="#"><img src="image/스크린샷 2022-02-05 오후 5.43.32.png" alt=""></a></li>
+                <li><a href="#"><img src="image/스크린샷 2022-02-11 오후 9.44.56.png" alt=""></a></li>
+            </ul>
+        </div>
+        <div class="item3">
+            <span class="item3__category">지금 뜨는 콘텐츠</span>
+            <ul class="item3__contents">
+                <li><a href="#"><img src="image/스크린샷 2022-02-05 오후 5.43.47.png" alt=""></a></li>
+                <li><a href="#"><img src="image/스크린샷 2022-02-05 오후 5.44.10.png" alt=""></a></li>
+                <li><a href="#"><img src="image/스크린샷 2022-02-05 오후 5.42.07.png" alt=""></a></li>
+                <li><a href="#"><img src="image/스크린샷 2022-02-05 오후 5.41.22.png" alt=""></a></li>
+                <li><a href="#"><img src="image/스크린샷 2022-02-05 오후 5.40.46.png" alt=""></a></li>
+                <li><a href="#"><img src="image/스크린샷 2022-02-11 오후 9.45.22.png" alt=""></a></li>
+            </ul>
+        </div>
+    </section>
+    </main>
+    <div class="navbar__toggle click">
+        <span>메뉴</span><i class="fas fa-caret-down"></i>
+    </div>
+    <div class="dropdown__menu active">
+        <li><a href="#">홈</a></li>
+        <li><a href="#">시리즈</a></li>
+        <li><a href="#">영화</a></li>
+        <li><a href="#">NEW!요즘 대세 콘텐츠</a></li>
+        <li><a href="#">내가 찜한 콘텐츠</a></li>
+    </div>
+</body>
+</html>
