@@ -107,6 +107,10 @@ button:focus {
   font-size: var(--font-medium);
 }
 
+.navbar__black {
+  background: black;
+}
+
 /* Info and Contents */
 /* Info */
 
