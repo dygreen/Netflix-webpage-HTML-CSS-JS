@@ -7,4 +7,4 @@
    + 체크박스 체크 시, 자동 슬라이드 재생
 
 
-* 자세한 프로젝트 실행 과정: https://www.notion.so/0056f45ce459414e94405ddc6ede7be7
+* 자세한 프로젝트 실행 과정: https://prickle-turn-785.notion.site/3d30b8e1398f47b5a90e2ef8a2594d6c
