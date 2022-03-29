@@ -1,5 +1,6 @@
 # Netflix-webpage-HTML-CSS-JS
 [개인 프로젝트: 2022.02.07 ~ 2022.02.28]
+
 **1) Netflix 기존 웹사이트 간단 구현**
    (주소: https://dygreen.github.io/Netflix-webpage-HTML-CSS-JS/Netflix_curr_web/index.html)
    - 반응형 페이지 구현: toggle 버튼 클릭시 메뉴 등장
