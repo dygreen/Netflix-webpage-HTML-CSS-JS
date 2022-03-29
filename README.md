@@ -8,7 +8,7 @@
    - 입체적인 hover 효과를 통해 콘텐츠 보여주기
  
 2) (응용 ver.) 창작 웹사이트 구현(carousel 형태 웹사이트)
-   (주소: 
+   (주소: https://dygreen.github.io/Netflix-webpage-HTML-CSS-JS/Netflix_carousel_web(creative)/index.html)
    - 슬라이드를 통한 콘텐츠 소개: next/prev button, bottom button(순서가 지정된 버튼)
    - checkbox를 통한 자동 슬라이드 재생 기능
 
