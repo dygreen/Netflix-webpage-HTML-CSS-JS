@@ -16,4 +16,5 @@
    - checkbox를 통한 자동 슬라이드 재생 기능
 
 
-* 자세한 프로젝트 실행 과정(notion-netflix 게시물): https://prickle-turn-785.notion.site/3d30b8e1398f47b5a90e2ef8a2594d6c
+
+>자세한 프로젝트 실행 과정(notion-netflix 게시물): https://prickle-turn-785.notion.site/3d30b8e1398f47b5a90e2ef8a2594d6c
