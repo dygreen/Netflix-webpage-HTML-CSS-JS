@@ -4,7 +4,6 @@
 **1) Netflix 기존 웹사이트 간단 구현**
 
    (주소: https://dygreen.github.io/netflix/Netflix_curr_web/index.html)
-   https://dygreen.github.io/netflix/Netflix_curr_web/index.html
    - 반응형 페이지 구현: toggle 버튼 클릭시 메뉴 등장
    - background-image 그라데이션 효과
    - scroll 위치에 따른 navbar 배경색 변화
